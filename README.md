@@ -1,6 +1,6 @@
 #golang api
 
-https://github.com/IamFrost/build-a-restapi-postgres-golang
+https://github.com/IamFrost/api-1-build-a-restapi-postgres-golang
 
 # RestTest3
 
